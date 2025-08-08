@@ -10,7 +10,7 @@
 
 # 🎧 Spotify Kiosk Web App
 
-#I haven't changed anything yet! Its still a work in Progress! 
+# I haven't changed anything yet! Its still a work in Progress! 
 
 > [!IMPORTANT]
 > Spotify Playback requires users to authenticate with a valid Spotify Premium subscription.
