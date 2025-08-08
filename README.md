@@ -85,7 +85,7 @@ To run this project locally, follow these steps:
 
 ## 🤝 Contributions
 
-Based on (Spotify React Web Client](https://github.com/francoborrelli/spotify-react-web-client?tab=readme-ov-file) from francoborelli
+Based on [Spotify React Web Client](https://github.com/francoborrelli/spotify-react-web-client?tab=readme-ov-file) from francoborelli
 
 ## 📝 License
 
