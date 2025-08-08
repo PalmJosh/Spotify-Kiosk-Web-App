@@ -1,6 +1,6 @@
 <a href="https://spotify-react-web-client.onrender.com/" target="_blank">
   <p align="center">
-    <img src="https://github.com/user-attachments/assets/726763a6-094a-42cf-878c-1e7d47a2e597" style="height: 250px"/>
+ 
   </p>
 </a>
 
@@ -13,7 +13,6 @@
 > [!IMPORTANT]
 > Spotify Playback requires users to authenticate with a valid Spotify Premium subscription.
 
-![gif](https://github.com/user-attachments/assets/2077cdef-f3fa-49c9-a905-9cc9ab6629fb)
 
 ## 🚀 Features
 
@@ -45,28 +44,7 @@
 
 🎵 <a href="https://developer.spotify.com/documentation/web-playback-sdk/">Spotify Playback SDK</a>: For real-time music playback control within the web client.
 
-## 📸 Screenshots
 
-More in images [folder](https://github.com/francoborrelli/spotify-react-web-client/tree/main/images).
-
-<div align="center">
-    <table >
-     <tr>
-       <td>
-         <img src="images/Home.png?raw=true 'Playlist'"/>
-         <img src="images/CurrentDevices.png?raw=true 'Playlist'"/>
-       </td>
-        <td>
-         <img src="images/NewPlaylist.png?raw=true 'Playlist'"/>
-          <img src="images/browse.png?raw=true 'Playlist'"/>
-       </td>
-                 <td>
-         <img src="images/Profile.png?raw=true 'Playlist'"/>
-          <img src="images/playlist.png?raw=true 'Playlist'"/>
-       </td>
-     </tr>
-    </table>
-    </div>
 
 ## ⚙️ Installation & Setup
 
@@ -75,13 +53,13 @@ To run this project locally, follow these steps:
 1. Clone this repository:
 
    ```bash
-   clone https://github.com/francoborrelli/spotify-react-web-client.git
+   clone 
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd spotify-react-web-client
+   cd spotify-kiosk-web-app
    ```
 
 3. Install dependencies:
@@ -105,18 +83,9 @@ To run this project locally, follow these steps:
 
 6. Open your browser and navigate to `http://localhost:3000`.
 
-## 🌐 2018 Version
-
-There is also a 2018 version of this Spotify clone, which features the Spotify UI from that year. You can find the code for that version in the [`main-2018`](https://github.com/francoborrelli/spotify-react-web-client/tree/main-2018) branch.
-
-- **2018 version branch**: [main-2018](https://github.com/francoborrelli/spotify-react-web-client/tree/main-2018)
-- **2018 live demo**: [Check out the app](https://spotify-react-web-client-2018.onrender.com/)
-
-Feel free to explore the older version and compare the features and functionality between the two versions.
-
 ## 🤝 Contributions
 
-Contributions are welcome! If you have any suggestions or improvements, feel free to fork the repository, create a new branch, and submit a pull request.
+Based on (Spotify React Web Client](https://github.com/francoborrelli/spotify-react-web-client?tab=readme-ov-file) from francoborelli
 
 ## 📝 License
 
