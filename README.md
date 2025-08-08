@@ -8,7 +8,7 @@
 
 </p>
 
-# 🎧 Spotify React Web Client
+# 🎧 Spotify Kiosk Web App
 
 > [!IMPORTANT]
 > Spotify Playback requires users to authenticate with a valid Spotify Premium subscription.
